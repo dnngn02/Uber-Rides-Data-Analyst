@@ -10,7 +10,7 @@ Datasets from [Kaggle](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-a
 
 
 ### Data Visualizations
-
+Link to dashboard: https://public.tableau.com/views/UberRidesDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Insights
 
